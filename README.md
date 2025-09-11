@@ -1,8 +1,8 @@
-### heart-disease-analysis
+### Heart Disease Analysis
 A data analysis project using SQL (and later Power BI) on heart disease clinical data.
 Project Status: Work in Progress
 
-# SQL Scripts
+### SQL Scripts
 
 This folder contains SQL queries used to analyze the Heart Disease dataset.
 
