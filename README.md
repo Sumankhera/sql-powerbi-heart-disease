@@ -1,4 +1,4 @@
-# heart-disease-analysis
+### heart-disease-analysis
 A data analysis project using SQL (and later Power BI) on heart disease clinical data.
 Project Status: Work in Progress
 
