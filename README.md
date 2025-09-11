@@ -5,7 +5,7 @@ Project Status: Work in Progres
 
 ### SQL Scripts
 
-### This folder contains SQL queries used to analyze the Heart Disease dataset.
+This folder contains SQL queries used to analyze the Heart Disease dataset.
 
 - **basic_counts.sql** — overall patient counts + mortality %
 - **avg_age_by_death.sql** — average age grouped by survival outcome
