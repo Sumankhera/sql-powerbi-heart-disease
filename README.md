@@ -6,7 +6,7 @@ The dataset has patient records with details like age, diabetes, blood pressure,
 
 The idea is simple: use data to ask questions, dig into patterns, and share what I’m learning along the way.
 
----
+-------
 
 ## Current progress
 Here’s what I’ve managed so far:
@@ -23,7 +23,7 @@ What’s next:
 - Start building **Power BI dashboards** to turn these insights into visuals.  
 - Keep adding my findings here as I go.  
 
----
+------
 
 ## 📂 Repo structure
 
@@ -72,14 +72,17 @@ High BP: 37.1% mortality, No High BP: 29.4%
 Females: 32.4% mortality, Males: 32.0%
 → Gender didn’t have a clear impact in this dataset.
 
-⸻
+-----
+
 
 Tools I’m using
 	•	Python + pandas → to convert Excel into a database
 	•	SQLite + DB Browser → to run and explore queries
 	•	Power BI (coming next) → to turn these patterns into visuals
 
-⸻
+-----
+
+ 
  Why I’m doing this
 
 For me, this is not just practice — it’s about learning in public.
