@@ -76,9 +76,9 @@ Females: 32.4% mortality, Males: 32.0%
 
 
 Tools I’m using
-	•	Python + pandas → to convert Excel into a database
-	•	SQLite + DB Browser → to run and explore queries
-	•	Power BI (coming next) → to turn these patterns into visuals
+	•	Python + pandas: to convert Excel into a database
+	•	SQLite + DB Browser: to run and explore queries
+	•	Power BI (coming next): to turn these patterns into visuals
 
 -----
 
