@@ -1,1 +1,1 @@
-Add queries for smoking, blood pressure, and sex analysis
+Added queries for smoking, blood pressure, and sex analysis.
