@@ -81,7 +81,11 @@ Tools I’m using
 	•	Power BI (coming next): to turn these patterns into visuals
 
 -----
+## 📊 Power BI Dashboard
 
+Here’s the first version of my heart disease analysis dashboard:
+
+![Heart Disease Dashboard](assets/dashboard.png)
  
  Why I’m doing this
 
