@@ -1,5 +1,13 @@
 # 🫀 Heart Disease Dataset – SQL Exploration
 
+
+## 📊 Power BI Dashboard
+
+Here’s the first version of my heart disease analysis dashboard:
+
+![Heart Disease Dashboard](assets/dashboard.png)
+ 
+
 ## About this project
 I’ve started this project to sharpen my **SQL skills** and later bring the results into **Power BI** for visualization.  
 The dataset has patient records with details like age, diabetes, blood pressure, lab tests, and whether the patient survived (`death_event`).  
@@ -81,12 +89,6 @@ Tools I’m using
 	•	Power BI (coming next): to turn these patterns into visuals
 
 -----
-## 📊 Power BI Dashboard
-
-Here’s the first version of my heart disease analysis dashboard:
-
-![Heart Disease Dashboard](assets/dashboard.png)
- 
  Why I’m doing this
 
 For me, this is not just practice — it’s about learning in public.
